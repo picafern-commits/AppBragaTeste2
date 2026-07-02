@@ -1,0 +1,18 @@
+{
+  "version": "1.58.77",
+  "build": "github-pages-gh-pages-subtree",
+  "updatedAt": "2026-07-01T18:10:00+01:00",
+  "cache": "1.58.77",
+  "systems": {
+    "movimentos": "movimentos",
+    "alertas": "alertasTecnicos",
+    "notificacoes": "notificacoes",
+    "logs": "activityLog",
+    "stock": "stock",
+    "impressoras": "impressoras",
+    "manutencoes": "manutencoes",
+    "etiquetasWord": "etiquetasWord"
+  },
+  "layout_rule": "Todas as páginas futuras devem incluir css/appbraga-clean-layout.css depois do CSS da página.",
+  "deploy": "gh-pages/_site"
+}
